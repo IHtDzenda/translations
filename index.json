@@ -80,6 +80,11 @@
     "country":"Slovenija"
   },
   {
+    "code":"cz_CZ",
+    "name":"Čeština",
+    "country":"Česko"
+  },
+  {
     "code":"sv_SE",
     "name":"Svenska",
     "country":"Sverige"
